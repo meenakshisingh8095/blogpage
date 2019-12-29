@@ -1,0 +1,41 @@
+.bgmatch{
+        
+      }
+#log{
+	padding:60px 40px;
+	margin-top:80px;
+	-webkit-box-shadow: -10px -9px 20px -1px rgba(0,0,0,0.75);
+-moz-box-shadow: -10px -9px 20px -1px rgba(0,0,0,0.75);
+box-shadow: -10px -9px 20px -1px rgba(0,0,0,0.75);
+}
+.img{
+  width:80px;
+  margin-left: auto;
+  display: block;
+  margin-right: auto;
+}
+h1{
+	color:white;
+	text-align: center;
+	font-weight: bolder;
+	margin-top:20px;
+}
+label{
+	font-size:20px;
+	font-color:white;
+}
+button{
+	-webkit-box-shadow: -10px -9px 20px -1px rgba(0,0,0,0.75);
+-moz-box-shadow: -10px -9px 20px -1px rgba(0,0,0,0.75);
+box-shadow: -10px -9px 20px -1px rgba(0,0,0,0.75);
+}
+.card {
+    margin-right: 10px;
+}
+
+.card:last-of-type {
+    margin-right: 0;
+}
+#mime{
+	color:gray;
+}
